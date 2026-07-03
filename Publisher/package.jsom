@@ -1,0 +1,11 @@
+{
+  "name": "uuid",
+  "version": "0.0.1",
+  "publisher": "seriki yakub",
+  "engines": {
+    "vscode": "0.10.x"
+  },
+  "scripts": {
+    "vscode:prepublish": "tsc"
+  }
+}

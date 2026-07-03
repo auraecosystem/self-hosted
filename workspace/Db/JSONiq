@@ -1,0 +1,66 @@
+{
+  "users": [],
+  "organizations": [],
+  "workspaces": [],
+  "projects": [],
+  "repositories": [],
+  "files": [],
+  "folders": [],
+
+  "ai_models": [],
+  "ai_agents": [],
+  "ai_tools": [],
+  "prompts": [],
+  "conversations": [],
+  "messages": [],
+  "memories": [],
+
+  "blockchains": [],
+  "wallets": [],
+  "tokens": [],
+  "nfts": [],
+  "transactions": [],
+  "smart_contracts": [],
+  "domains": [],
+
+  "marketplace": [],
+  "subscriptions": [],
+  "plans": [],
+  "licenses": [],
+  "payments": [],
+  "invoices": [],
+
+  "api_keys": [],
+  "webhooks": [],
+  "integrations": [],
+  "deployments": [],
+  "builds": [],
+  "logs": [],
+
+  "storage": [],
+  "assets": [],
+  "documents": [],
+  "media": [],
+
+  "notifications": [],
+  "activities": [],
+  "audit_logs": [],
+  "analytics": [],
+
+  "posts": [],
+  "comments": [],
+  "announcements": [],
+  "feedback": [],
+
+  "settings": {
+    "theme": "dark",
+    "language": "en",
+    "timezone": "Africa/Lagos"
+  },
+
+  "profile": {
+    "name": "KUBU LEE",
+    "company": "QUBUHUB",
+    "developer": true
+  }
+}
