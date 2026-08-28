@@ -25,13 +25,13 @@ jobs:
   # Single deploy job since we're just deploying
   deploy:
     environment:
-      name: gh-pages
+      name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: self-hosted
+    runs-on: ubuntu-22.04-arm
     steps:
       - name: Checkout
-        uses: actions/checkout@v5
-      - name: Setup Pages
+        uses: actions/checkout@v4
+      - name: Setup sites
         uses: actions/configure-pages@v6
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
